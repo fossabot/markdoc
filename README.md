@@ -11,6 +11,8 @@ Markdoc is a [Markdown](https://commonmark.org)-based syntax and toolchain for c
 We designed Markdoc to power [Stripe's public docs](http://stripe.com/docs), our largest and most complex content site.
 
 ## Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmarkdoc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmarkdoc?ref=badge_shield)
+
 
 To get started with Markdoc, first install the library:
 
@@ -91,6 +93,9 @@ This project has adopted the Stripe [Code of conduct](.github/CODE_OF_CONDUCT.md
 ## License
 
 This project uses the [MIT license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmarkdoc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmarkdoc?ref=badge_large)
 
 ## Credits
 
